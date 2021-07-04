@@ -6,22 +6,28 @@ co-presenting:
 pronoun: He/Him
 title: Principal Frontend Engineer
 company: Kooth
-talk-title: Understanding accessibility makes you a better developer/designer/leader
+session-title: Understanding accessibility makes you a better developer/designer/leader
+session-length: 45 mins
 
-### DO NOT MODIFY THIS SECTION
-headshot: /images/speakers/
-track: "2"
-timeslot: "00:00" 
+headshot: not-supplied-yet
+track: "1"
+timeslot: "tba"
 date: 2021-09-08
-type: Talk
+type: talk
+# talk, workshop, other
 delivery: recorded
+# live or recorded
 qa: live
+# live or none
+
 level: 1
-### DO NOT MODIFY (END)
+# 1 = No prior knowledge / entry-level
+# 2 = mid-level
+# 3 = advanced
 
 twitter:
  - jfhector
-# linkedin: 
+# linkedin: not-supplied
 takeaways:
  - You'll understand accessibility, and the practice of inclusive design and development
  - It’ll help you bake accessibility into your own practice and your team
@@ -42,11 +48,3 @@ It’ll help you bake accessibility into your own practice and your team.
 <h3>Bio</h3>
 
 JF Hector Labram is the Principal Front-end Engineer at Kooth, and an IAAP-certified Web Accessibility Specialist. Before learning to develop user interfaces, JF was a design strategist, user researcher and interaction designer.
-
-Magdalena Wielopolska
-Director of Experience at Kooth Plc
-mwielopolska@kooth.com
-@Magdalena_Wielo
-She/her
-
-Magdalena Wielopolska is the Director of Experience at Kooth and has spent over a decade designing for the digital environment. She’s currently completing her masters in Positive Psychology and Coaching Psychology.

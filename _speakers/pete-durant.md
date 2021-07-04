@@ -3,22 +3,28 @@ name: Pete Durant
 pronoun: He/Him
 title: Marketing / Creative / Digital Director
 company: Formerly BLAST, Endemol Shine, Comic Relief
-talk-title: TV vs Digital - How to create for online audiences 
+session-title: TV vs Digital - How to create for online audiences 
+session-length: 45 mins
 
-### DO NOT MODIFY THIS SECTION
-headshot: /images/speakers/craig_BW.jpg
-track: "2"
-timeslot: "00:00" 
+headshot: not-supplied-yet
+track: "3"
+timeslot: "tba"
 date: 2021-09-08
-type: Talk
+type: talk
+# talk, workshop, other
 delivery: recorded
+# live or recorded
 qa: live
+# live or none
+
 level: 1
-### DO NOT MODIFY (END)
+# 1 = No prior knowledge / entry-level
+# 2 = mid-level
+# 3 = advanced
 
 twitter:
  - petedurant
-# linkedin: 
+# linkedin: not-supplied
 takeaways:
  - New ways to edit for online
  - How to plan and think strategically

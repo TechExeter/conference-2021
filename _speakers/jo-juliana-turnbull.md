@@ -3,22 +3,28 @@ name: Jo Juliana Turnbull
 pronoun: She/Her
 title: Freelance Marketing Consultant
 company: SEO Jo Blogs
-talk-title: How to Build Great Relationships Online
+session-title: How to Build Great Relationships Online
+session-length: 45 mins
 
-### DO NOT MODIFY THIS SECTION
-headshot: /images/speakers/
-track: "1"
-timeslot: "00:00"
+headshot: not-supplied-yet
+track: "3"
+timeslot: "tba"
 date: 2021-09-08
-type: Talk
-delivery: recorded
+type: talk
+# talk, workshop, other
+delivery: live
+# live or recorded
 qa: live
+# live or none
+
 level: 1
-### DO NOT MODIFY (END)
+# 1 = No prior knowledge / entry-level
+# 2 = mid-level
+# 3 = advanced
 
 twitter:
  - SEOJoBlogs
-# linkedin: 
+# linkedin: not-supplied
 takeaways:
  - Discovering their strengths and building on them to improve their confidence. 
  - Address areas that they want to improve and accepting what they can or cannot change 

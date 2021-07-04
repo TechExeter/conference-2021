@@ -6,22 +6,28 @@ co-presenting:
 pronoun: He/Him
 title: Director of Technology
 company: Software Solved
-talk-title: Utilising Azure and Microsoft technologies to bring DataOps to life
+session-title: Utilising Azure and Microsoft technologies to bring DataOps to life
+session-length: 45 mins
 
-### DO NOT MODIFY THIS SECTION
-headshot: /images/speakers/
+headshot: not-supplied-yet
 track: "2"
-timeslot: "00:00" 
+timeslot: "tba"
 date: 2021-09-08
-type: Talk
-delivery: recorded
+type: talk
+# talk, workshop, other
+delivery: live
+# live or recorded
 qa: live
-level: 1
-### DO NOT MODIFY (END)
+# live or none
+
+level: 2
+# 1 = No prior knowledge / entry-level
+# 2 = mid-level
+# 3 = advanced
 
 twitter:
  - softwaresolved
-# linkedin: 
+# linkedin: not-supplied
 takeaways:
  - Why tools and skill selection are critical part of a successful DataOps project
  - How the Microsoft ecosystem can be used to deliver DataOps
@@ -40,4 +46,4 @@ Rapid innovation, increased collaboration, improved transparency and reduced err
 
 <h3>Bio</h3>
 
-[to come]
+*** please provide ***

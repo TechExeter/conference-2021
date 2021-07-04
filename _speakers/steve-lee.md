@@ -3,22 +3,23 @@ name: Steve Lee
 pronoun: He/Him
 title: Web consultant
 company: OpenDirective / W3C
-talk-title: Cognitive Accessibility Guidance from the W3C
+session-title: Cognitive Accessibility Guidance from the W3C
+session-length: 45 mins
 
-### DO NOT MODIFY THIS SECTION
-headshot: /images/speakers/
-track: "2"
-timeslot: "00:00" 
+headshot: not-supplied-yet
+track: "1"
+timeslot: "tba"
 date: 2021-09-08
-type: Talk
+type: talk
+# talk, workshop, other
 delivery: recorded
-qa: live
-level: 1
-### DO NOT MODIFY (END)
+# live or recorded
+qa: none
+# live or none
 
 twitter:
  - SteveALee
-# linkedin: 
+# linkedin: not-supplied
 takeaways:
  - Overview of W3C WAI activity
  - Introduction to Cognitive Accessibility
@@ -31,8 +32,10 @@ Introduction to a new resource from W3C with advice on providing good cognitive 
 
 With background on the W3C WAI, WCAG, and Cognitive Accessibility.
 
+*** please expand ***
+
 {% include speakers-takeaways.html %}
 
 <h3>Bio</h3>
 
-[to update]
+*** please provide ***

@@ -6,22 +6,28 @@ co-presenting:
 pronoun: She/Her
 title: Director of Experience
 company: Kooth
-talk-title: Understanding accessibility makes you a better developer/designer/leader
+session-title: Understanding accessibility makes you a better developer/designer/leader
+session-length: 45 mins
 
-### DO NOT MODIFY THIS SECTION
-headshot: /images/speakers/
-track: "2"
-timeslot: "00:00" 
+headshot: not-supplied-yet
+track: "1"
+timeslot: "tba"
 date: 2021-09-08
-type: Talk
+type: talk
+# talk, workshop, other
 delivery: recorded
+# live or recorded
 qa: live
+# live or none
+
 level: 1
-### DO NOT MODIFY (END)
+# 1 = No prior knowledge / entry-level
+# 2 = mid-level
+# 3 = advanced
 
 twitter:
  - Magdalena_Wielo
-# linkedin: 
+# linkedin: not-supplied
 takeaways:
  - You'll understand accessibility, and the practice of inclusive design and development
  - It’ll help you bake accessibility into your own practice and your team

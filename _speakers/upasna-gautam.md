@@ -3,29 +3,34 @@ name: Upasna Gautam
 pronoun: She/Her
 title: Product Manager, Digital News & Platforms
 company: CNN
-talk-title: [TO CONFIRM] 
+session-title: *** please provide a talk title ***
+session-length: 30 mins
 
-### DO NOT MODIFY THIS SECTION
-headshot: /images/speakers/
-track: "1"
-timeslot: "00:00"
+headshot: not-supplied-yet
+track: "tba"
+timeslot: "tba"
 date: 2021-09-08
-type: Talk
+type: talk
+# talk, workshop, other
 delivery: recorded
-qa: live
+# live or recorded
+qa: none
+# live or none
+
 level: 1
-### DO NOT MODIFY (END)
+# 1 = No prior knowledge / entry-level
+# 2 = mid-level
+# 3 = advanced
 
 twitter:
  - upasnagautam
 # linkedin: 
 takeaways:
- - [TO CONFIRM] 
+ - *** NEEDS FILLING OUT ***
 # TALK DESCRIPTION IS BELOW, FOLLOWED BY BIO
 ---
 
 *** please provide a talk description ***
-
 
 {% include speakers-takeaways.html %}
 
