@@ -2,25 +2,31 @@
 name: Rich Lawrence
 pronoun: He/Him
 title: Supercomputer Architect
-company: Met OFfice
-talk-title: How to buy a really big computer
+company: Met Office
+session-title: How to buy a really big computer
+session-length: 45 mins
 
-### DO NOT MODIFY THIS SECTION
-headshot: /images/speakers/
-track: "1"
-timeslot: "00:00"
+headshot: not-supplied-yet
+track: "tba"
+timeslot: "tba"
 date: 2021-09-08
-type: Talk
+type: talk
+# talk, workshop, other
 delivery: live
+# live or recorded
 qa: live
+# live or none
+
 level: 1
-### DO NOT MODIFY (END)
+# 1 = No prior knowledge / entry-level
+# 2 = mid-level
+# 3 = advanced
 
 twitter:
  - richlawrence
-# linkedin: 
+# linkedin: not-supplied
 takeaways:
- - Understand what a supercomputer is and does.
+ - Understand what a supercomputer is and does
  - Learn about how government spends £1bn
  - Gain insight into how you move 1 petabyte of data a day
  

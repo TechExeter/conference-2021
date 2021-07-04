@@ -28,10 +28,10 @@ takeaways:
 ---
 Discover the difference between creating content for TV and digital screens, learn a new digital visual language and get inspiration to immediately evolve your content output.
 
-[ above needs expanding ]
+*** above description needs expanding, at least 2 paragraphs ***
 
 {% include speakers-takeaways.html %}
 
 <h3>Bio</h3>
 
-[ to send ]
+*** PLEASE FILL THIS OUT ***

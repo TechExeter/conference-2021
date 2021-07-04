@@ -3,22 +3,28 @@ name: Lyssa-Fêe Crump
 pronoun: She/Her
 title: Founder
 company: Kraken Marketing
-talk-title: Seriously, you need to stop alienating your audience and embrace intentional inclusivity
+session-title: Seriously, you need to stop alienating your audience and embrace intentional inclusivity
+session-length: 45 mins
 
-### DO NOT MODIFY THIS SECTION
-headshot: /images/speakers/
-track: "1"
-timeslot: "00:00"
+headshot: not-supplied-yet
+track: "tba"
+timeslot: "tba"
 date: 2021-09-08
-type: Talk
+type: talk
+# talk, workshop, other
 delivery: recorded
+# live or recorded
 qa: live
+# live or none
+
 level: 1
-### DO NOT MODIFY (END)
+# 1 = No prior knowledge / entry-level
+# 2 = mid-level
+# 3 = advanced
 
 twitter:
  - LyssaCrump
-# linkedin: 
+# linkedin: not-supplied
 takeaways:
  - An eye opener into how alienating your marketing can be 
  - Some top tips on how to be more inclusive
@@ -43,6 +49,7 @@ I’ll share some top tips on how to improve your inclusivity, and you’ll leav
 {% include speakers-takeaways.html %}
 
 <h3>Bio</h3>
+
 <p>Lyssa is a marketing badass.</p>
 <p>She is the founder of Kraken Marketing, an agency based in Cornwall that primarily works with tech companies. They use Agile methodologies and data-driven marketing to help businesses level up their marketing.</p>
 <p>Lyssa loves helping brands grow and develop by finding their niche and getting them in front of the right people. She lives, sleeps, and breaths a brand when she works with them - obsessive fangirl over here!</p>

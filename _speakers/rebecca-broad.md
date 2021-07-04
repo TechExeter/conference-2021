@@ -2,22 +2,29 @@
 name: Rebecca Broad
 pronoun: She/Her
 title: Organic content strategist
-talk-title: How to create accessible social media content
+session-title: How to create accessible social media content
+session-length: 45 mins
 
-### DO NOT MODIFY THIS SECTION
-headshot: /images/speakers/
-track: "1"
-timeslot: "00:00"
+
+headshot: not-supplied-yet
+track: "tba"
+timeslot: "tba"
 date: 2021-09-08
-type: Talk
+type: talk
+# talk, workshop, other
 delivery: recorded
+# live or recorded
 qa: live
+# live or none
+
 level: 1
-### DO NOT MODIFY (END)
+# 1 = No prior knowledge / entry-level
+# 2 = mid-level
+# 3 = advanced
 
 twitter:
  - RebeccaComms
-# linkedin: 
+# linkedin: not-supplied
 takeaways:
  - Why accessible social content is important
  - Best practice examples

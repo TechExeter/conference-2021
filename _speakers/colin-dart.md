@@ -3,26 +3,27 @@ name: Colin Dart
 pronoun: He/Him
 title: Technology Manager
 company: SETsquared Exeter
-talk-title: Technology Viability and Innovation - The importance of trying everything
+session-title: Technology Viability and Innovation - The importance of trying everything
+session-length: 20 mins
 
-### DO NOT MODIFY THIS SECTION
-headshot: /images/speakers/
+headshot: not-supplied-yet
 track: "2"
-timeslot: "00:00" 
+timeslot: "tba"
 date: 2021-09-08
-type: Talk
+type: talk
+# talk, workshop, other
 delivery: recorded
+# live or recorded
 qa: live
-level: 1
-### DO NOT MODIFY (END)
+# live or none
 
 twitter:
  - ExeterTEL
-# linkedin: 
+# linkedin: not-supplied
 takeaways:
- - An understanding of how to approach problem solving through trial and error.
- - Why it's important to stay connected to communities and how to do so.
- - How exploring technology tangents can bring new insight to their own work.
+ - An understanding of how to approach problem solving through trial and error
+ - Why it's important to stay connected to communities and how to do so
+ - How exploring technology tangents can bring new insight to their own work
 
 # TALK DESCRIPTION IS BELOW, FOLLOWED BY BIO
 ---
@@ -45,4 +46,4 @@ Having started life as a graphic and web designer/developer, I have moved in aro
 
 I have specialised in helping startups and small organisations to make technology decisions that can scale as they grow.
 
-This has led to my current role as SETsquared  Technology Manager, running a structured programme of technology evaluation and incubation support.
+This has led to my current role as SETsquared Technology Manager, running a structured programme of technology evaluation and incubation support.

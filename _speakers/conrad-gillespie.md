@@ -20,8 +20,8 @@ twitter:
 # linkedin: 
 takeaways:
  - Benefits of Space-enabled technologies & applications
- - diverse ways to get involved
- - wealth of available business support & funding opportunities, to accelerate Space-enabled innovations (tech, data & digital)
+ - Diverse ways to get involved
+ - Wealth of available business support & funding opportunities, to accelerate Space-enabled innovations (tech, data & digital)
 
 # TALK DESCRIPTION IS BELOW, FOLLOWED BY BIO
 ---

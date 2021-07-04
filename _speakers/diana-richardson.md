@@ -3,33 +3,39 @@ name: Diana Richardson
 pronoun: She/Her
 title: Social Media & Community Manager
 company: Semrush
-talk-title: [TO CONFIRM] Access to your Audience - What it means to build a social community
+session-title: *** PLEASE CONFIRM *** Access to your Audience - What it means to build a social community
+session-length: 45 mins
 
-### DO NOT MODIFY THIS SECTION
-headshot: /images/speakers/
-track: "1"
-timeslot: "00:00"
+headshot: not-supplied-yet
+track: "tba"
+timeslot: "tba"
 date: 2021-09-08
-type: Talk
+type: talk
+# talk, workshop, other
 delivery: recorded
+# live or recorded
 qa: live
+# live or none
+
 level: 1
-### DO NOT MODIFY (END)
+# 1 = No prior knowledge / entry-level
+# 2 = mid-level
+# 3 = advanced
 
 twitter:
  - DianaRich013
-# linkedin: 
+# linkedin: not-supplied
 takeaways:
- - new perspectives on data or social media
- - actionable next steps to engage with their existing and new audience members
- - best practices for using data or social media to connect customers with their brands
+ - New perspectives on data or social media
+ - Actionable next steps to engage with their existing and new audience members
+ - Best practices for using data or social media to connect customers with their brands
  
 # TALK DESCRIPTION IS BELOW, FOLLOWED BY BIO
 ---
 
-[needs updating]
+The social media sessions would focus on the transparency, communication & connection that social media can bring to a business and how that can affect the business as a whole. The data sessions would utilize information from Google Analytics and the insights businesses can gain from looking at the data in new ways.
 
-The social media sessions would focus on the transparency, communication & connection that social media can bring to a business and how that can effect the business as a whole. The data sessions would utilize information from Google Analytics and the insights businesses can gain from looking at the data in new ways.
+*** now needs updating based on session title ***
 
 {% include speakers-takeaways.html %}
 
@@ -40,4 +46,4 @@ Diana is the Social Media & Community Manager for the SEO division of Semrush an
 
 Before working with Semrush, Diana headed up the entire Search Engine Marketing team for a large company then transitioned to the Digital Marketing Director for a boutique marketing agency. 
 
-A Virginia native, she's now living in Texas. You can find Diana Tweeting regularly about SEO and the search engine marketing landscape as well as her other favorite topics: wine, movies and TV.
+A Virginia native, she's now living in Texas. You can find Diana Tweeting regularly about SEO and the search engine marketing landscape as well as her other favourite topics: wine, movies and TV.

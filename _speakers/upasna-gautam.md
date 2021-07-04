@@ -24,7 +24,7 @@ takeaways:
 # TALK DESCRIPTION IS BELOW, FOLLOWED BY BIO
 ---
 
-[needs updating]
+*** please provide a talk description ***
 
 
 {% include speakers-takeaways.html %}

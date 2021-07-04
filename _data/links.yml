@@ -1,0 +1,9 @@
+# blog page sections
+- name: speakers
+  href: '/speakers/'
+
+- name: sponsorship
+  href: '/sponsorship.html'
+
+- name: about us
+  href: '/about-us.html'  
