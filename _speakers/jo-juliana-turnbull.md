@@ -43,6 +43,6 @@ In this presentation I’ll address some of the ways to build confidence, improv
 <h3>Bio</h3>
 Jo Juliana Turnbull is a freelance Marketing Consultant and Chartered Marketer with over 14 years in SEO and online marketing working both client and agency side.
  
-She set up her website SEO Jo Blogs in 2009 after initially starting her career in ecommerce and finance in 2003. SEO Jo is the organiser of a networking group called Search London for online professionals in SEO, PPC and Social Media. She has been running the event for over 10 years where it has grown to over 2500 members. 
+She set up her website <a href="https://www.seojoblogs.com/">SEO Jo Blogs</a> in 2009 after initially starting her career in ecommerce and finance in 2003. SEO Jo is the organiser of a networking group called Search London for online professionals in SEO, PPC and Social Media. She has been running the event for over 10 years where it has grown to over 2500 members. 
  
-In April 2020, she started an online event called Turn Digi that promotes entrepreneurs, rising talent and has a diverse range of speakers. She is a Global Freelancer of the year finalist 2020 and finalist in three Digital Women’s 2021 awards including "Entrepreneur of the Year",  “Digital Women’s Innovator of the Year” and “Digital Women's Freelancer of the Year”.
+In April 2020, she started an online event called <a href="https://www.youtube.com/channel/UC5pFy7sF-xpqSvtfmrvs4Bg">Turn Digi</a> that promotes entrepreneurs, rising talent and has a diverse range of speakers. She is a Global Freelancer of the year finalist 2020 and finalist in three Digital Women’s 2021 awards including "Entrepreneur of the Year",  “Digital Women’s Innovator of the Year” and “Digital Women's Freelancer of the Year”.
