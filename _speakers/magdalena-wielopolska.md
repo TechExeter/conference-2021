@@ -1,8 +1,8 @@
 ---
 name: Magdalena Wielopolska
 co-presenting: 
- - page: jean-francois-hector-labram
-   name: Jean-Francois Hector Labram
+ - page: jf-hector-labram
+   name: JF Hector-Labram
 pronoun: She/Her
 title: Director of Experience
 company: Kooth
@@ -25,9 +25,8 @@ level: 1
 # 2 = mid-level
 # 3 = advanced
 
-twitter:
- - Magdalena_Wielo
-# linkedin: not-supplied
+# twitter:
+linkedin: https://www.linkedin.com/in/magdalena-wielopolska-0a005530/
 takeaways:
  - You'll understand accessibility, and the practice of inclusive design and development
  - It’ll help you bake accessibility into your own practice and your team

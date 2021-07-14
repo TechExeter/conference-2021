@@ -1,5 +1,5 @@
 ---
-name: Jean-Francois Hector Labram
+name: JF Hector-Labram
 co-presenting: 
  - page: magdalena-wielopolska
    name: Magdalena Wielopolska
@@ -27,7 +27,7 @@ level: 1
 
 twitter:
  - jfhector
-# linkedin: not-supplied
+linkedin: https://www.linkedin.com/in/jfhector/
 takeaways:
  - You'll understand accessibility, and the practice of inclusive design and development
  - It’ll help you bake accessibility into your own practice and your team
@@ -47,4 +47,4 @@ It’ll help you bake accessibility into your own practice and your team.
 
 <h3>Bio</h3>
 
-JF Hector Labram is the Principal Front-end Engineer at Kooth, and an IAAP-certified Web Accessibility Specialist. Before learning to develop user interfaces, JF was a design strategist, user researcher and interaction designer.
+JF Hector-Labram is the Principal Front-end Engineer at Kooth, and an IAAP-certified Web Accessibility Specialist. Before learning to develop user interfaces, JF was a design strategist, user researcher and interaction designer.

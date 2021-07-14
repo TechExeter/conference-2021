@@ -3,7 +3,7 @@ name: Diana Richardson
 pronoun: She/Her
 title: Social Media & Community Manager
 company: Semrush
-session-title: *** PLEASE CONFIRM *** Access to your Audience - What it means to build a social community
+session-title: Build a social community and use data to connect with your audience
 session-length: 45 mins
 
 headshot: not-supplied-yet
@@ -26,16 +26,16 @@ twitter:
  - DianaRich013
 # linkedin: not-supplied
 takeaways:
- - New perspectives on data or social media
+ - New perspectives on data / social media
  - Actionable next steps to engage with their existing and new audience members
- - Best practices for using data or social media to connect customers with their brands
+ - Best practices for using data / social media to connect customers with their brands
  
 # TALK DESCRIPTION IS BELOW, FOLLOWED BY BIO
 ---
 
-The social media sessions would focus on the transparency, communication & connection that social media can bring to a business and how that can affect the business as a whole. The data sessions would utilize information from Google Analytics and the insights businesses can gain from looking at the data in new ways.
+We can use our existing data to build a strong social media community and create content that resonates with that audience. 
 
-*** now needs updating based on session title ***
+Utilizing information from Google Analytics and other insights, businesses and brands can gain a deeper insight into their audience and look at the data in new ways.
 
 {% include speakers-takeaways.html %}
 
