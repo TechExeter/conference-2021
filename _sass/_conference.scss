@@ -197,8 +197,16 @@ section.bronze {
     padding:5px;
 }
 
-.sponsors a {
-    border:none;
+.normal-page {
+    h1 { 
+        font-weight: 600;
+        font-size: 2.0em;
+    }
+}
+.sponsor-page { 
+    a {
+        border:none;
+    }
 }
 
 @media screen and (max-width: 736px) {
