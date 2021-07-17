@@ -9,15 +9,24 @@
 	.post.stats {
 		padding:0px;
 		div.columns {
+			@include vendor('flex-wrap', 'nowrap');
+			@include vendor('justify-content', 'space-evenly');
+			@include vendor('align-items', 'center');
+			
 			section { 
 				@include vendor('flex-basis', '33%');
 				font-size:2em;
 				text-transform: uppercase;
-				> div {
+				padding:1em 0.5em;
+				span {
 					font-size: 2em;
 					line-height: 1;
 					font-weight: 600;
 					background-color:  _palette(button-fg);
+					padding: 0.5em;
+					display:block;
+					width: 2em;
+					margin: auto;
 				}
 			}
 		}
@@ -251,6 +260,13 @@
 		}
 
 		@include breakpoint(small) {
+			&.stats {
+				div.columns {
+					section { 
+						font-size:1.5em;
+					}
+				}
+			}
 			@include padding(_size(section-spacing-small), _size(section-spacing-small));
 			left: _size(section-spacing-small) * -1;
 			margin: 0 0 _size(element-margin) 0;
@@ -271,6 +287,13 @@
 		}
 
 		@include breakpoint(xsmall) {
+			&.stats {
+				div.columns {
+					section { 
+						font-size:1em;
+					}
+				}
+			}
 			> header {
 				.meta {
 					@include vendor('align-items', 'center');
