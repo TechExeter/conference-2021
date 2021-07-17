@@ -19,7 +19,27 @@ url: "https://conference.techexeter.uk" # the base hostname & protocol for your 
 # Build settings
 markdown: kramdown
 
-
 permalink: /:categories/:year/:title.html
 
+include:
+  - _pages
+  
+future: true
 
+collections:
+  speakers:
+    output: true
+    permalink: /:collection/:name.html
+    sort_by: timeslot
+  sponsors:
+    output: false
+
+# Defaults
+defaults:
+  # _speakers
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speakers
+      schedule-ignore: false

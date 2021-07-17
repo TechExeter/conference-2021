@@ -1,0 +1,172 @@
+---
+layout: default
+---
+{% assign day = page.date | date: '%d' %}
+
+{% include header.html %}
+
+{% include speaker_top.html %}
+
+<div class="row speaker-page">
+  <div class="4u 12u$(medium) sidebar">
+
+    <img src="{{ page.headshot }}" alt="Headshot of {{ page.name }}">
+    <h1 id="name" class="page__title" itemprop="headline">
+      {{ page.name | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+    <div class="speaker-title">
+      <strong>{{ page.title }}</strong> {% if page.company %} {{ page.company }} {% endif %}
+    </div>
+
+    {% if page.twitter %}
+    <div>
+      {% for twitter_handle in page.twitter %}
+      <a class="twitter" href="https://twitter.com/{{ twitter_handle }}" target="_blank"
+        rel="nofollow noreferrer"><i aria-hidden="true" class="fab fa-twitter"></i> {{ twitter_handle }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+    {% if page.linkedin %}
+    <div>
+      {% for linkedin in page.linkedin %}
+      <a class="linkedin" href="https://linkedin.com/in/{{ linkedin }}" target="_blank" 
+        rel="nofollow noreferrer"><i aria-hidden="true" class="fab fa-linkedin"></i> {{ linkedin }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+    {% if page.sidebar %}
+    {% for s in page.sidebar %}
+    {% if s.image %}
+    <img src={% if s.image contains "://" %} "{{ s.image }}" {% else %} "{{ s.image | relative_url }}" {% endif %}
+      alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+    {% endif %}
+    {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+    {% if s.text %}{{ s.text | markdownify }}{% endif %}
+    {% if s.nav %}{% include nav_list nav=s.nav %}{% endif %}
+    {% endfor %}
+    {% if page.sidebar.nav %}
+    {% include nav_list nav=page.sidebar.nav %}
+    {% endif %}
+    {% endif %}
+  </div>
+
+  <div class="8u$ 12u$(medium)">
+
+    <article class="post page" itemscope itemtype="https://schema.org/CreativeWork">
+      {% if page.session-title %}
+      <meta itemprop="headline"
+        content="{{ page.session-title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+      {% if page.excerpt %}
+      <meta itemprop="description"
+        content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+      {% if page.date %}
+      <meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
+      {% if page.last_modified_at %}
+      <meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%B %d, %Y" }}">{% endif %}
+
+      <header>
+        <div class="title">
+        {% if page.session-title %}<h1 id="page-title" class="page__title" itemprop="headline">
+          {{ page.session-title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
+        </div>
+      </header>
+
+      <section>
+
+        <div>
+          <table>
+            <tr>
+              <td>Track: <a href="/schedule#track_{{ page.track }}">{{ page.track }}
+                  {% if page.track == 1 %}
+                  (MAIN STAGE)
+                  {% endif %}
+                  {% if page.track == 2 %}
+                  (SESSIONS)
+                  {% endif %}
+                </a></td>
+              <td>Type of session: {{ page.type }}</td>
+            </tr>
+            <tr>
+              <td>Start Time: <a
+                  href="/schedule#{{page.day}}_time_{{ page.timeslot | replace: ".", ""  | replace: ":", "" }}">{{ page.timeslot }}
+                  </a></td>
+              <td>
+                {% if page.level == 1 %}
+                Level: No prior knowledge / entry-level
+                {% endif %}
+                {% if page.level == 2 %}
+                Level: Mid-level, some knowledge required
+                {% endif %}
+                {% if page.level == 3 %}
+                Level: Advanced
+                {% endif %}</td>
+            </tr>
+          </table>
+        </div>
+
+        <pre><code>Note: Speaker information is preliminary and subject to change</code></pre>
+
+        {{ content }}
+      </section>
+
+      <footer class="page__meta">
+        {% if site.data.ui-text[site.locale].meta_label %}
+        <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+        {% endif %}
+        {% include page__taxonomy.html %}
+        {% if page.last_modified_at %}
+        <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i>
+            {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time
+            datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{{ page.last_modified_at | date: "%B %d, %Y" }}</time>
+        </p>
+        {% endif %}
+      </footer>
+
+    </article>
+
+  </div>
+</div>
+
+<hr/>
+
+<div class="row">
+  <div class="4u 12u$(medium) ">
+    {% include random-sponsor.html %}
+  </div>
+  <div class="8u 12u$(medium) ">
+    
+    {% capture the_collection %}{{ page.collection }}{% endcapture %}
+
+    {% if page.collection %}
+    {% assign document = site[the_collection] %}
+    {% endif %}
+
+    {% for links in document %}
+    {% if links.name == page.name %}
+    {% unless forloop.first %}
+    {% assign prevurl = prev.url %}
+    {% assign prevtitle = prev.name %}
+    {% endunless %}
+    {% unless forloop.last %}
+    {% assign next = document[forloop.index] %}
+    {% assign nexttitle = next.name %}
+    {% assign nexturl = next.url %}
+    {% endunless %}
+    {% endif %}
+    {% assign prev = links %}
+    {% endfor %}
+
+    <div style="text-align: center;">
+      <ul class="actions" style="margin:2em auto;">
+        {% if prevurl %}<li><a href="{{ prevurl }}" class="button ">&laquo; {{ prevtitle }}</a></li>
+        {% endif %}
+        <li><a href="/speakers.html" class="button ">All speakers</a></li>
+        {% if nexturl %}<li><a href="{{ nexturl }}" class="button ">{{ nexttitle }} &raquo;</a></li>
+        {% endif %}
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div style="clear:both;">&nbsp;</div>
