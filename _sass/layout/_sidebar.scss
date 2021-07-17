@@ -10,6 +10,17 @@
 		margin-right: _size(section-spacing);
 		min-width: 22em;
 		width: 22em;
+		align-self: flex-start;
+		height:auto;
+		position:sticky;
+		top:5em;
+
+		h2 { 
+			margin:0 0 0.25em;
+		}
+		ul.actions { 
+			font-size:1.2em;
+		}
 
 		> * {
 			border-top: solid 1px _palette(border);

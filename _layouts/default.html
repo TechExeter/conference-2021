@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "ru" }}">
+<html lang="{{ page.lang | default: site.lang | default: "en-GB" }}">
 
 {% include head.html %}
 
@@ -19,9 +19,10 @@
 
   <main class="page-content" aria-label="Content">
     <div id="main">
-      {{ content }}        
+      {{ content }}
     </div>
   </main>
+
   {% if page.title %}
     {% include footer.html %}
   {% else %}
