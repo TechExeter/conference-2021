@@ -46,8 +46,37 @@ excerpt: Our speakers for the TechExeter / Digital Exeter annual conference on 8
   {% endif %}
   {% endfor %}
   </div>
-
 </article>
+
+{% assign speakersSorted = site.speakers | sort:"track"  %}
+
+<article class="post highlighted topics">
+
+  <h1>Topics</h1>
+  {% for speaker in speakersSorted %}
+  {% if speaker.co-presenting == nil or speaker.co-presenting-primary == 1 %}
+    <div>
+      <h2><a href="{{ speaker.url }}">{{ speaker.session-title }}</a></h2>
+      <h3>{% if speaker.track == "1" %}
+      MAIN STAGE
+      {% endif %}
+      {% if speaker.track == "2" %}
+      TECH TRACK
+      {% endif %}
+      {% if speaker.track == "3" %}
+      DIGITAL TRACK
+      {% endif %}</h3>
+      <p><strong>{{ speaker.name }}</strong>, {% if speaker.name != speaker.title %}{{ speaker.title }} {% endif %} 
+      {% if speaker.co-presenting-primary == 1 %} 
+        <br/><strong>{{ speaker.co-presenting[0].name }}</strong>, {{ speaker.co-presenting[0].title }}
+      {% endif %}
+      <br/>
+      {% if speaker.company %} {{ speaker.company }} {% endif %}</p>
+    </div>
+  {% endif %}
+  {% endfor %}
+</article>
+
 <article class="post">
   <header>
     <div class="title">

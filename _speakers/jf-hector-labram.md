@@ -3,6 +3,8 @@ name: JF Hector-Labram
 co-presenting: 
  - page: magdalena-wielopolska
    name: Magdalena Wielopolska
+   title: Director of Experience
+co-presenting-primary: 1
 pronoun: He/Him
 title: Principal Frontend Engineer
 company: Kooth

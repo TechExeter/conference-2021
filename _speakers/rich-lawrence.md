@@ -7,7 +7,7 @@ session-title: How to buy a really big computer
 session-length: 45 mins
 
 headshot: /assets/images/speakers/rich-lawrence.jpg
-track: "tba"
+track: "2"
 timeslot: "tba"
 date: 2021-09-08
 type: talk

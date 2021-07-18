@@ -7,7 +7,7 @@ session-title: Build a social community and use data to connect with your audien
 session-length: 45 mins
 
 headshot: /assets/images/speakers/diana-richardson.jpg
-track: "tba"
+track: "3"
 timeslot: "tba"
 date: 2021-09-08
 type: talk
