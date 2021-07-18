@@ -16,6 +16,17 @@ nav a:focus {
 	grid-column-gap: 20px;
 	grid-row-gap: 20px;
 	grid-template-columns: 1fr 1fr 1fr;
+    @include breakpoint(small) {
+        grid-template-rows: 1fr 1fr 1fr;
+        grid-template-columns: none;
+        &.sponsors {
+	        grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: none;
+            overflow-x: scroll;
+            background: _palette(bg-alt);
+            padding:0.25em;
+        }
+    }
 }
 .grid-3col .bronze h2,
 .grid-3col .silver h2,
