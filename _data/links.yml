@@ -1,6 +1,6 @@
 # blog page sections
 - name: speakers
-  href: '/speakers/'
+  href: '/speakers.html'
 
 - name: sponsorship
   href: '/become-a-sponsor.html'
