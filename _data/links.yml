@@ -2,6 +2,10 @@
 - name: speakers
   href: '/speakers.html'
 
+- name: <i class="fas fa-ticket-alt" aria-hidden="true"></i> tickets
+  class: 'highlight'
+  href: '/tickets.html'
+
 - name: sponsorship
   href: '/become-a-sponsor.html'
 

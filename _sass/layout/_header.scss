@@ -27,6 +27,10 @@
 			color: inherit;
 			text-decoration: none;
 		}
+		
+		svg, i, a { 
+			vertical-align: middle; 
+		}
 
 		ul {
 			list-style: none;
@@ -36,6 +40,7 @@
 			li {
 				display: inline-block;
 				padding-left: 0;
+				
 			}
 		}
 
@@ -71,7 +76,11 @@
 						margin-left: 0;
 						padding-left: 0;
 					}
-
+					&.highlight { 
+						a {
+							border-bottom: 2px solid _palette(accent);
+						}
+					}
 					a {
 						border-bottom: 0;
 						font-family: _font(family-heading);
@@ -79,6 +88,7 @@
 						font-weight: _font(weight-heading);
 						letter-spacing: _font(kerning-heading);
 						text-transform: uppercase;
+						border-bottom: 2px solid _palette(bg);
 					}
 				}
 			}
