@@ -1,4 +1,5 @@
 ---
+published: false
 name: Conrad Gillespie
 pronoun: He/Him
 title: Centre Manager

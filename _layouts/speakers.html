@@ -77,37 +77,39 @@ layout: default
         <div>
           <table>
             <tr>
-              <td>Track: <a href="/schedule#track_{{ page.track }}">{{ page.track }}
-                  {% if page.track == 1 %}
+              <td>Track: <a href="#track_{{ page.track }}">{{ page.track }}
+                  {% if page.track == "1" %}
                   (MAIN STAGE)
                   {% endif %}
-                  {% if page.track == 2 %}
-                  (SESSIONS)
+                  {% if page.track == "2" %}
+                  (TECH TRACK)
+                  {% endif %}
+                  {% if page.track == "3" %}
+                  (DIGITAL TRACK)
                   {% endif %}
                 </a></td>
               <td>Type of session: {{ page.type }}</td>
             </tr>
             <tr>
               <td>Start Time: <a
-                  href="/schedule#{{page.day}}_time_{{ page.timeslot | replace: ".", ""  | replace: ":", "" }}">{{ page.timeslot }}
+                  href="#{{page.day}}_time_{{ page.timeslot | replace: ".", ""  | replace: ":", "" }}">{{ page.timeslot }}
                   </a></td>
               <td>
                 {% if page.level == 1 %}
-                Level: No prior knowledge / entry-level
+                Entry-level / open to all
                 {% endif %}
                 {% if page.level == 2 %}
-                Level: Mid-level, some knowledge required
+                Mid-level topic, some knowledge required
                 {% endif %}
                 {% if page.level == 3 %}
-                Level: Advanced
+                Aimed towards advanced practitioners
                 {% endif %}</td>
             </tr>
           </table>
         </div>
 
-        <pre><code>Note: Speaker information is preliminary and subject to change</code></pre>
-
         {{ content }}
+        <pre><code>Note: Speaker information is preliminary and subject to change</code></pre>
       </section>
 
       <footer class="page__meta">

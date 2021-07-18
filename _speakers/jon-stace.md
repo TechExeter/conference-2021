@@ -9,7 +9,7 @@ company: Software Solved
 session-title: Utilising Azure and Microsoft technologies to bring DataOps to life
 session-length: 45 mins
 
-headshot: not-supplied-yet
+headshot: /assets/images/speakers/jon-stace.jpg
 track: "2"
 timeslot: "tba"
 date: 2021-09-08

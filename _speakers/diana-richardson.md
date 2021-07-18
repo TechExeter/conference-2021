@@ -6,7 +6,7 @@ company: Semrush
 session-title: Build a social community and use data to connect with your audience
 session-length: 45 mins
 
-headshot: not-supplied-yet
+headshot: /assets/images/speakers/diana-richardson.jpg
 track: "tba"
 timeslot: "tba"
 date: 2021-09-08

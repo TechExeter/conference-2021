@@ -1,4 +1,5 @@
 ---
+published: false
 name: Marton Gaspar
 pronoun: He/Him
 title: Principal Product Manager

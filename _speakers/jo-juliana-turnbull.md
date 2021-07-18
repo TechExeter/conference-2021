@@ -6,7 +6,7 @@ company: SEO Jo Blogs
 session-title: How to Build Great Relationships Online
 session-length: 45 mins
 
-headshot: not-supplied-yet
+headshot: /assets/images/speakers/jo-juliana-turnbull.jpg
 track: "3"
 timeslot: "tba"
 date: 2021-09-08

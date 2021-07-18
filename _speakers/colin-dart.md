@@ -6,7 +6,7 @@ company: SETsquared Exeter
 session-title: Technology Viability and Innovation - The importance of trying everything
 session-length: 20 mins
 
-headshot: not-supplied-yet
+headshot: /assets/images/speakers/colin-dart.jpg
 track: "2"
 timeslot: "tba"
 date: 2021-09-08
@@ -19,7 +19,7 @@ qa: live
 
 twitter:
  - ExeterTEL
-# linkedin: not-supplied
+linkedin: colin-dart-3548892a
 takeaways:
  - An understanding of how to approach problem solving through trial and error
  - Why it's important to stay connected to communities and how to do so
@@ -28,7 +28,7 @@ takeaways:
 # TALK DESCRIPTION IS BELOW, FOLLOWED BY BIO
 ---
 
-In this talk I would like to look at the concept of how innovation is fuelled by the ability and access to explore different ways of thinking and doing.
+In this talk we will be looking at the concept of how innovation is fuelled by the ability and access to explore different ways of thinking and doing.
 
 It has been said that entrepreneurship is to "take action to create something new of value to others through the process of trial and error".
 
@@ -36,7 +36,7 @@ Delving in to this further exposes the need to seek and put in place access to r
 
 This can look like physical resources, such as new software and hardware. But this can also look like access to people, in the form of peers, leaders, academia and so on. 
 
-Finally, I'd like to shine a light on the art of looking sideways and how exploring unrelated technology, communities and methodology can bring new ways of thinking to your own.
+Finally, we’ll shine a light on the art of looking sideways and how exploring unrelated technology, communities and methodology can bring new ways of thinking to your own.
 
 {% include speakers-takeaways.html %}
 

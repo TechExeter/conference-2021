@@ -6,7 +6,7 @@ company: OpenDirective / W3C
 session-title: Cognitive Accessibility Guidance from the W3C
 session-length: 45 mins
 
-headshot: not-supplied-yet
+headshot: /assets/images/speakers/steve-lee.jpg
 track: "1"
 timeslot: "tba"
 date: 2021-09-08

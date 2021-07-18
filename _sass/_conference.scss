@@ -117,6 +117,8 @@ nav a:focus {
 
     .sidebar {
         text-align:center;
+        position: sticky;
+        top:5em;
         img {
             display:block;
             margin:auto;
@@ -132,6 +134,9 @@ nav a:focus {
             margin-top:0.5em;
             background-color: _palette(accent);
             padding: 0.25em 0.5em;
+        }
+        > div { 
+            margin-bottom: 1.5em;
         }
     }
     

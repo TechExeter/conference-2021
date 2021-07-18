@@ -6,8 +6,8 @@ company: Kraken Marketing
 session-title: Seriously, you need to stop alienating your audience and embrace intentional inclusivity
 session-length: 45 mins
 
-headshot: not-supplied-yet
-track: "tba"
+headshot: /assets/images/speakers/lyssa-fee-crump.jpg
+track: "3"
 timeslot: "tba"
 date: 2021-09-08
 type: talk

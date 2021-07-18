@@ -6,7 +6,7 @@ company: Freelance
 session-title: Improve access by 700% with the JavaScript Internationalization API
 session-length: 45 mins
 
-headshot: /images/speakers/craig_BW.jpg
+headshot: /assets/images/speakers/craig-buckler.jpg
 track: "2"
 timeslot: "tba"
 date: 2021-09-08

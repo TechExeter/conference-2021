@@ -9,7 +9,7 @@ company: Kooth
 session-title: Understanding accessibility makes you a better developer/designer/leader
 session-length: 45 mins
 
-headshot: not-supplied-yet
+headshot: /assets/images/speakers/jf-hector-labram.jpg
 track: "1"
 timeslot: "tba"
 date: 2021-09-08
@@ -27,7 +27,7 @@ level: 1
 
 twitter:
  - jfhector
-linkedin: https://www.linkedin.com/in/jfhector/
+linkedin: jfhector
 takeaways:
  - You'll understand accessibility, and the practice of inclusive design and development
  - It’ll help you bake accessibility into your own practice and your team

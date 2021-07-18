@@ -1,4 +1,5 @@
 ---
+published: false
 name: Upasna Gautam
 pronoun: She/Her
 title: Product Manager, Digital News & Platforms

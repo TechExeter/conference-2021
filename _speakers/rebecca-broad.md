@@ -6,7 +6,7 @@ session-title: How to create accessible social media content
 session-length: 45 mins
 
 
-headshot: not-supplied-yet
+headshot: /assets/images/speakers/rebecca-broad.jpg
 track: "tba"
 timeslot: "tba"
 date: 2021-09-08
@@ -24,7 +24,7 @@ level: 1
 
 twitter:
  - RebeccaComms
-# linkedin: not-supplied
+linkedin: rebecca-broad
 takeaways:
  - Why accessible social content is important
  - Best practice examples

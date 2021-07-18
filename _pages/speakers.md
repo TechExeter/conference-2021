@@ -51,7 +51,7 @@ excerpt: Our speakers for the TechExeter / Digital Exeter annual conference on 8
 <article class="post">
   <header>
     <div class="title">
-      <p>Speaker information is preliminary and subject to change.</p>
+      <p>Not all speakers have provided their full information yet, so this page is not representative of the full conference line-up.</p>
     </div>
   </header>
 </article>

@@ -9,7 +9,7 @@ company: Kooth
 session-title: Understanding accessibility makes you a better developer/designer/leader
 session-length: 45 mins
 
-headshot: not-supplied-yet
+headshot: /assets/images/speakers/magdalena-wielpolska.jpg
 track: "1"
 timeslot: "tba"
 date: 2021-09-08
@@ -26,7 +26,7 @@ level: 1
 # 3 = advanced
 
 # twitter:
-linkedin: https://www.linkedin.com/in/magdalena-wielopolska-0a005530/
+linkedin: magdalena-wielopolska-0a005530
 takeaways:
  - You'll understand accessibility, and the practice of inclusive design and development
  - It’ll help you bake accessibility into your own practice and your team
