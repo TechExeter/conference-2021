@@ -46,4 +46,4 @@ Rapid innovation, increased collaboration, improved transparency and reduced err
 
 <h3>Bio</h3>
 
-*** please provide ***
+Coming Soon...
