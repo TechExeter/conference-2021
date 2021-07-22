@@ -44,11 +44,11 @@ The CHC Project aims to:
 
 Anna is the our eHealth & eWellbeing Lead of the SWCoESA - Senior Research Fellow for Technology and Innovation in Health and Care (Connected Health Care Project – ESA/UKSA) (Health Works Cornwall Project – ESF)
 
-SWCoESA partnership includes the Universities of Exeter, Falmouth & Plymouth, and Conrad focuses on helping innovators and researchers to develop and commercialise space technologies and satellite applications, across wide-ranging sectors, including Health, Marine & Maritime, Mining, and Natural Capital. 
-
 <hr/>
 
-<strong>Conrad Gillespie</strong> manages the South West Centre of Excellence in Satellite Applications (SWCoESA), which is part of the national Space ecosystem established by the Satellite Applications Catapult & UK Space Agency.
+<strong>Conrad Gillespie</strong> manages the <a href="https://sa.catapult.org.uk/south-west/">South West Centre of Excellence in Satellite Applications (SWCoESA)</a>, which is part of the national Space ecosystem established by the Satellite Applications Catapult & UK Space Agency.
+
+SWCoESA partnership includes the Universities of Exeter, Falmouth & Plymouth, and Conrad focuses on helping innovators and researchers to develop and commercialise space technologies and satellite applications, across wide-ranging sectors, including Health, Marine & Maritime, Mining, and Natural Capital. 
 
 By engaging with an expansive range of stakeholders, Conrad and his team build robust collaborations across industries and academia, in order to create technological opportunities, leverage scientific research, generate value and drive impact for regional growth.
 
