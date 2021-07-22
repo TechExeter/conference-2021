@@ -1,13 +1,12 @@
 ---
-published: false
-name: Conrad Gillespie
-pronoun: He/Him
-title: Centre Manager
+name: Anna Mankee-Williams 
+pronoun: She/Her
+title: eHealth & eWellbeing Lead
 company: South West Centre of Excellence in Satellite Applications (SWCoESA)
-session-title: Space Enabled Connectivity
-session-length: 45 mins
+session-title: Connecting Healthcare
+session-length: 20 mins
 
-headshot: not-supplied-yet
+headshot: /assets/images/speakers/anna-mankee-williams.jpg
 track: "2"
 timeslot: "tba"
 date: 2021-09-08
@@ -28,15 +27,28 @@ takeaways:
 # TALK DESCRIPTION IS BELOW, FOLLOWED BY BIO
 ---
 
-As the conference key theme is ‘Access’, we would like to give an overview & highlight examples of how satellite and Space derived data can help ‘Ubiquitous Connectivity’ (people, IoT devices, networks, autonomous systems etc.), including a speaker *** WHO? *** from our collaborative ‘Connecting Healthcare’ project (providing Satellite-enabled Healthcare for patients in remote & rural areas in Cornwall & Scotland): https://www.goonhilly.org/the-chc-project
+ 
+Anna Mankee-Williams will outline how satellite and space derived data can help ubiquitous connectivity, and shall highlight the regional <a href="https://www.goonhilly.org/the-chc-project">‘Connecting Healthcare’ (CHC) Project</a>, to provide Satellite-enabled Primary Care, Care Homes, Diabetes Care, Mental Health & Clinical Education for patients living in remote and rural areas (in Cornwall and Scotland). 
+ 
+The CHC Project aims to:
+<ul>
+<li>Improve connectivity in remote locations</li>
+<li>Address digital poverty to enable eHealth delivery</li>
+<li>Develop an intelligent router to provide failsafe for congested or failed networks</li>
+<li>Prevent NHS shut downs</li>
+</ul>
 
 {% include speakers-takeaways.html %}
 
 <h3>Bio</h3>
 
-Conrad Gillespie manages the South West Centre of Excellence in Satellite Applications (SWCoESA), which is part of the national Space ecosystem established by the Satellite Applications Catapult & UK Space Agency.
+Anna is the our eHealth & eWellbeing Lead of the SWCoESA - Senior Research Fellow for Technology and Innovation in Health and Care (Connected Health Care Project – ESA/UKSA) (Health Works Cornwall Project – ESF)
 
 SWCoESA partnership includes the Universities of Exeter, Falmouth & Plymouth, and Conrad focuses on helping innovators and researchers to develop and commercialise space technologies and satellite applications, across wide-ranging sectors, including Health, Marine & Maritime, Mining, and Natural Capital. 
+
+<hr/>
+
+<strong>Conrad Gillespie</strong> manages the South West Centre of Excellence in Satellite Applications (SWCoESA), which is part of the national Space ecosystem established by the Satellite Applications Catapult & UK Space Agency.
 
 By engaging with an expansive range of stakeholders, Conrad and his team build robust collaborations across industries and academia, in order to create technological opportunities, leverage scientific research, generate value and drive impact for regional growth.
 
