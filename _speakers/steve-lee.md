@@ -32,10 +32,8 @@ Introduction to a new resource from W3C with advice on providing good cognitive 
 
 With background on the W3C WAI, WCAG, and Cognitive Accessibility.
 
-*** please expand ***
-
 {% include speakers-takeaways.html %}
 
 <h3>Bio</h3>
 
-*** please provide ***
+(Coming Soon)
