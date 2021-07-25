@@ -58,13 +58,14 @@
 			h2 { 
 				margin:0 0 0.25em;
 			}
-			ul.actions { 
-				font-size:1.4em;
-				li, a { display: block ; }
-				svg, i, a { vertical-align: middle; }
-			}
 		}
 
+		ul.actions { 
+			font-size:1.4em;
+			li, a { display: block ; }
+			svg, i, a { vertical-align: middle; }
+		}
+		
 		@include breakpoint(large) {
 			margin: 0 0 _size(section-spacing) 0;
 			text-align: center;

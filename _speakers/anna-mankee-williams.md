@@ -26,7 +26,6 @@ takeaways:
 
 # TALK DESCRIPTION IS BELOW, FOLLOWED BY BIO
 ---
-
  
 Anna Mankee-Williams will outline how satellite and space derived data can help ubiquitous connectivity, and shall highlight the regional <a href="https://www.goonhilly.org/the-chc-project">‘Connecting Healthcare’ (CHC) Project</a>, to provide Satellite-enabled Primary Care, Care Homes, Diabetes Care, Mental Health & Clinical Education for patients living in remote and rural areas (in Cornwall and Scotland). 
  
