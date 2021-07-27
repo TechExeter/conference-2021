@@ -49,6 +49,6 @@ In this session, she'll share some techniques and examples that could help you r
 
 <h3>Bio</h3>
 
-Katja was until recently, employed as a lead developer at neontribe.co.uk where she specialised in the design and implementation of digital services aiing to improve the reach of small charities. She has over 12 years experience in web app development. As a kaleider.com resident, she values creative collaboration. She works iteratively with clients to get as close as possible to what people need out of the products she builds.
+Katja was until recently, employed as a lead developer at neontribe.co.uk where she specialised in the design and implementation of digital services aiming to improve the reach of small charities. She has over 12 years experience in web app development. As a kaleider.com resident, she values creative collaboration. She works iteratively with clients to get as close as possible to what people need out of the products she builds.
 
 She values community, open source, transparency, integrity, generally sharing stuff and giving everyone a voice.
