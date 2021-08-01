@@ -8,7 +8,7 @@ session-length: 20 mins
 
 headshot: /assets/images/speakers/colin-dart.jpg
 track: "2"
-timeslot: "tba"
+timeslot: "15.30"
 date: 2021-09-08
 type: talk
 # talk, workshop, other
@@ -16,6 +16,8 @@ delivery: recorded
 # live or recorded
 qa: live
 # live or none
+
+level: 1
 
 twitter:
  - ExeterTEL

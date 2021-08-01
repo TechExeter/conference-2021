@@ -8,7 +8,7 @@ session-length: 20 mins
 
 headshot: /assets/images/speakers/svetlana-kouznetsova.jpg
 track: "1"
-timeslot: "tba"
+timeslot: "12.15"
 date: 2021-09-08
 type: talk
 # talk, workshop, other
@@ -16,6 +16,8 @@ delivery: recorded
 # live or recorded
 qa: none
 # live or none
+
+level: 1
 
 #twitter:
 # linkedin:

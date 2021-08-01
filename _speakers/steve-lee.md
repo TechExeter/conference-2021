@@ -8,7 +8,7 @@ session-length: 45 mins
 
 headshot: /assets/images/speakers/steve-lee.jpg
 track: "1"
-timeslot: "tba"
+timeslot: "13.00"
 date: 2021-09-08
 type: talk
 # talk, workshop, other
@@ -16,6 +16,8 @@ delivery: recorded
 # live or recorded
 qa: none
 # live or none
+
+level: 1
 
 twitter:
  - SteveALee

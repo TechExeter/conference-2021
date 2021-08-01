@@ -8,7 +8,7 @@ session-length: 45 mins
 
 headshot: /assets/images/speakers/craig-buckler.jpg
 track: "2"
-timeslot: "tba"
+timeslot: "14.30"
 date: 2021-09-08
 type: talk
 # talk, workshop, other

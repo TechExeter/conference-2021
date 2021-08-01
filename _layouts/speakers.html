@@ -91,9 +91,11 @@ layout: default
               <td>Type of session: {{ page.type }}</td>
             </tr>
             <tr>
+              <!--
               <td>Start Time: <a
                   href="#{{page.day}}_time_{{ page.timeslot | replace: ".", ""  | replace: ":", "" }}">{{ page.timeslot }}
                   </a></td>
+                -->
               <td>
                 {% if page.level == 1 %}
                 Entry-level / open to all

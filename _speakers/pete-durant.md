@@ -7,8 +7,8 @@ session-title: TV vs Digital - How to make your creative sing for online audienc
 session-length: 45 mins
 
 headshot: /assets/images/speakers/pete-durant.jpg
-track: "3"
-timeslot: "tba"
+track: "1"
+timeslot: "14.30"
 date: 2021-09-08
 type: talk
 # talk, workshop, other

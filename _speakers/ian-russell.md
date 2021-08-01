@@ -6,12 +6,12 @@ co-presenting:
 pronoun: He/Him
 title: Director of Operations
 company: Software Solved
-session-title: Utilising Azure and Microsoft technologies to bring DataOps to life
+session-title: DataOps – how access to your data with this approach will release untapped value
 session-length: 45 mins
 
 headshot: /assets/images/speakers/ian-russell.jpg
 track: "2"
-timeslot: "tba"
+timeslot: "11.15"
 date: 2021-09-08
 type: talk
 # talk, workshop, other
@@ -36,11 +36,9 @@ takeaways:
 # TALK DESCRIPTION IS BELOW, FOLLOWED BY BIO
 ---
 
-DataOps is by no means a new methodology but selecting the right tools and skillsets to make DataOps effective is crucial.
+What is DataOps? What does a value pipeline truly mean? 
 
-In this session we will look at what is DataOps, what considerations need to be made before embarking on the project and how Azure and the wider Microsoft ecosystem can be used to release the benefits and opportunities DataOps can provide.
-
-Rapid innovation, increased collaboration, improved transparency and reduced error rates are just some of the outcomes of a successful DataOps project which will ultimately provide improved experiences for both customers and staff.
+During this talk we will delve in to how DataOps works in real life and illustrate the power of breaking down each step of a process and identifying data inputs will set you on the path to release value, improve insights, decision making, efficiencies and more!
 
 {% include speakers-takeaways.html %}
 

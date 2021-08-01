@@ -8,7 +8,7 @@ session-length: 45 mins
 
 headshot: /assets/images/speakers/lyssa-fee-crump.jpg
 track: "3"
-timeslot: "tba"
+timeslot: "11.15"
 date: 2021-09-08
 type: talk
 # talk, workshop, other

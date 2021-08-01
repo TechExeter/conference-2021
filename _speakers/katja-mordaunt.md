@@ -8,7 +8,7 @@ session-length: 45 mins
 
 headshot: /assets/images/speakers/katja-mordaunt.jpg
 track: "2"
-timeslot: "tba"
+timeslot: "13.00"
 date: 2021-09-08
 type: workshop
 # talk, workshop, other
