@@ -53,7 +53,7 @@ excerpt: Schedule for the TechExeter / Digital Exeter annual conference on 8th S
       "t-1500 t1-1430 t2-1430 t3-1430"
       "t-1515 t1-1515 t2-1515 t3-1515"
       "t-1530 t1-1530 t2-1530 t3-1515"
-      "t-1545 t1-1530 t2-1530 t123-1515"
+      "t-1545 t1-1530 t2-1530 t3-1515"
       "t-1600 t1-1600 t2-1600 t3-1600"
       "t-1615 t1-1600 t2-1600 t3-1600"
       "t-1630 t123-1630 t123-1630 t123-1630"
@@ -112,10 +112,9 @@ excerpt: Schedule for the TechExeter / Digital Exeter annual conference on 8th S
       <div class="type"> {{ speaker.type }}</div>
       {% endif %}
       <div class="speaker">    
-        {% if speaker.names != nil %}
-        {{ speaker.names }}
-        {% else %}
         {{ speaker.name }}
+        {% if speaker.co-presenting-primary == 1 %} 
+          &amp; {{ speaker.co-presenting[0].name }}
         {% endif %}
       </div>
     </div>

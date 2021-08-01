@@ -3,6 +3,7 @@ name: Magdalena Wielopolska
 co-presenting: 
  - page: jf-hector-labram
    name: JF Hector-Labram
+schedule-ignore: true   
 pronoun: She/Her
 title: Director of Experience
 company: Kooth

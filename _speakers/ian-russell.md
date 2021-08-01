@@ -3,6 +3,7 @@ name: Ian Russell
 co-presenting: 
  - page: jon-stace
    name: Jon Stace
+schedule-ignore: true      
 pronoun: He/Him
 title: Director of Operations
 company: Software Solved
