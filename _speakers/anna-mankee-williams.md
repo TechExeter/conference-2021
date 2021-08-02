@@ -7,8 +7,8 @@ session-title: Connecting Healthcare
 session-length: 20 mins
 
 headshot: /assets/images/speakers/anna-mankee-williams.jpg
-track: "2"
-timeslot: "tba"
+track: "1"
+timeslot: "15.30"
 date: 2021-09-08
 type: talk
 # talk, workshop, other
@@ -16,6 +16,8 @@ delivery: recorded
 # live or recorded
 qa: live
 # live or none
+
+level: 1
 
 # twitter: not-supplied
 # linkedin: not-supplied

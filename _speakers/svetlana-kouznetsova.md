@@ -8,7 +8,7 @@ session-length: 20 mins
 
 headshot: /assets/images/speakers/svetlana-kouznetsova.jpg
 track: "1"
-timeslot: "tba"
+timeslot: "12.15"
 date: 2021-09-08
 type: talk
 # talk, workshop, other
@@ -17,12 +17,13 @@ delivery: recorded
 qa: none
 # live or none
 
+level: 1
+
 #twitter:
 # linkedin:
 takeaways:
-- Why accessibility is universal design and benefits not just those with disabilities.
-- Why accessibility is a team effort and needs to be considered from the beginning.
-- How accessibility helps businesses increase their bottom lines and customer base.
+- Learn more about various hearing and communication abilities
+- Hear first-hand about accessibility for deaf people
 
 # TALK DESCRIPTION IS BELOW, FOLLOWED BY BIO
 ---

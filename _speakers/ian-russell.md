@@ -3,15 +3,16 @@ name: Ian Russell
 co-presenting: 
  - page: jon-stace
    name: Jon Stace
+schedule-ignore: true
 pronoun: He/Him
 title: Director of Operations
 company: Software Solved
-session-title: Utilising Azure and Microsoft technologies to bring DataOps to life
+session-title: DataOps – how access to your data with this approach will release untapped value
 session-length: 45 mins
 
 headshot: /assets/images/speakers/ian-russell.jpg
 track: "2"
-timeslot: "tba"
+timeslot: "11.15"
 date: 2021-09-08
 type: talk
 # talk, workshop, other
@@ -29,21 +30,21 @@ twitter:
  - softwaresolved
 # linkedin: not-supplied
 takeaways:
- - Why tools and skill selection are critical part of a successful DataOps project
- - How the Microsoft ecosystem can be used to deliver DataOps
- - The opportunities and possibilities DataOps can provide
+ - What is DataOps
+ - Understand how DataOps can add value to not just your own efficiencies but increase customer experience
+ - What ‘value pipeline’ means in practice
 
 # TALK DESCRIPTION IS BELOW, FOLLOWED BY BIO
 ---
 
-DataOps is by no means a new methodology but selecting the right tools and skillsets to make DataOps effective is crucial.
+What is DataOps? What does a value pipeline truly mean? 
 
-In this session we will look at what is DataOps, what considerations need to be made before embarking on the project and how Azure and the wider Microsoft ecosystem can be used to release the benefits and opportunities DataOps can provide.
-
-Rapid innovation, increased collaboration, improved transparency and reduced error rates are just some of the outcomes of a successful DataOps project which will ultimately provide improved experiences for both customers and staff.
+During this talk we will delve in to how DataOps works in real life and illustrate the power of breaking down each step of a process and identifying data inputs will set you on the path to release value, improve insights, decision making, efficiencies and more!
 
 {% include speakers-takeaways.html %}
 
 <h3>Bio</h3>
 
-Coming Soon...
+Stating out his career as a starry-eyed graduate business analyst Ian quickly immersed himself in to the Tech industry always looking for ways to increase knowledge of the whole development lifecycle. 
+
+He soon progressed through testing teams into management and most recently in 2019 to his current role of Director of Operations at Software Solved. His passion remains focussed on continuous process improvement, development methodologies, DevOps and business strategy to drive business performance and growth.

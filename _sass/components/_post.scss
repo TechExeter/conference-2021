@@ -7,7 +7,7 @@
 /* Post */
 
 	.post.stats {
-		padding:0px;
+		padding:1px;
 		div.columns {
 			@include vendor('flex-wrap', 'nowrap');
 			@include vendor('justify-content', 'space-evenly');

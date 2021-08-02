@@ -91,9 +91,11 @@ layout: default
               <td>Type of session: {{ page.type }}</td>
             </tr>
             <tr>
+              <!--
               <td>Start Time: <a
                   href="#{{page.day}}_time_{{ page.timeslot | replace: ".", ""  | replace: ":", "" }}">{{ page.timeslot }}
                   </a></td>
+                -->
               <td>
                 {% if page.level == 1 %}
                 Entry-level / open to all
@@ -105,6 +107,13 @@ layout: default
                 Aimed towards advanced practitioners
                 {% endif %}</td>
             </tr>
+            {% if page.co-presenting[0] %} 
+            <tr>
+              <td colspan="2">
+                Co-presenting with <a href="{{ page.co-presenting[0].page }}.html">{{ page.co-presenting[0].name }}</a>
+              </td>
+            </tr>
+            {% endif %}
           </table>
         </div>
 
