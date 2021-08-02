@@ -28,7 +28,7 @@ level: 1
 takeaways:
  - Why we should practice reading code
  - How to practice reading code
- - What code-reading.org is all about
+ - What <a href="https://code-reading.org">code-reading.org</a> is all about
 
 # TALK DESCRIPTION IS BELOW, FOLLOWED BY BIO
 ---

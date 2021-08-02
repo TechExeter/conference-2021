@@ -5,9 +5,12 @@
 - name: <i class="fas fa-ticket-alt" aria-hidden="true"></i> tickets
   class: 'highlight'
   href: '/tickets.html'
+  
+- name: schedule
+  href: '/schedule.html'
 
 - name: sponsorship
   href: '/become-a-sponsor.html'
 
 - name: about us
-  href: '/about-us.html'  
+  href: '/about-us.html'

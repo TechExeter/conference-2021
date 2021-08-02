@@ -3,7 +3,7 @@ name: Magdalena Wielopolska
 co-presenting: 
  - page: jf-hector-labram
    name: JF Hector-Labram
-schedule-ignore: true   
+schedule-ignore: true
 pronoun: She/Her
 title: Director of Experience
 company: Kooth
@@ -12,7 +12,7 @@ session-length: 45 mins
 
 headshot: /assets/images/speakers/magdalena-wielpolska.jpg
 track: "1"
-timeslot: "10.30"
+timeslot: "11.15"
 date: 2021-09-08
 type: talk
 # talk, workshop, other

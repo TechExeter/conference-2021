@@ -3,7 +3,7 @@ name: Ian Russell
 co-presenting: 
  - page: jon-stace
    name: Jon Stace
-schedule-ignore: true      
+schedule-ignore: true
 pronoun: He/Him
 title: Director of Operations
 company: Software Solved
@@ -30,9 +30,9 @@ twitter:
  - softwaresolved
 # linkedin: not-supplied
 takeaways:
- - Why tools and skill selection are critical part of a successful DataOps project
- - How the Microsoft ecosystem can be used to deliver DataOps
- - The opportunities and possibilities DataOps can provide
+ - What is DataOps
+ - Understand how DataOps can add value to not just your own efficiencies but increase customer experience
+ - What ‘value pipeline’ means in practice
 
 # TALK DESCRIPTION IS BELOW, FOLLOWED BY BIO
 ---
@@ -45,4 +45,6 @@ During this talk we will delve in to how DataOps works in real life and illustra
 
 <h3>Bio</h3>
 
-Coming Soon...
+Stating out his career as a starry-eyed graduate business analyst Ian quickly immersed himself in to the Tech industry always looking for ways to increase knowledge of the whole development lifecycle. 
+
+He soon progressed through testing teams into management and most recently in 2019 to his current role of Director of Operations at Software Solved. His passion remains focussed on continuous process improvement, development methodologies, DevOps and business strategy to drive business performance and growth.

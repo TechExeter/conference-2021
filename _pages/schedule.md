@@ -31,13 +31,13 @@ excerpt: Schedule for the TechExeter / Digital Exeter annual conference on 8th S
     grid-template-areas:
       "t-1000 t123-1000 t123-1000 t123-1000"
       "thead t1head t2head t3head"
-      "t-1015 t123-1015 t123-1015 t123-1015"
+      "t-1015 t1-1015 t2-1015 t3-1015"
       "t-1030 t1-1030 t2-1030 t3-1030"
       "t-1045 t1-1030 t2-1045 t3-1045"
-      "t-1100 t1-1030 t123-1100 t123-1100"
+      "t-1100 t123-1100 t123-1100 t123-1100"
       "t-1115 t1-1115 t2-1115 t3-1115"
-      "t-1130 t1-1130 t2-1115 t3-1115"
-      "t-1145 t1-1130 t2-1115 t3-1115"
+      "t-1130 t1-1115 t2-1115 t3-1115"
+      "t-1145 t1-1115 t2-1115 t3-1115"
       "t-1200 t123-1200 t123-1200 t123-1200"
       "t-1215 t1-1215 t2-1215 t3-1215"
       "t-1230 t1-1215 t2-1215 t3-1215"
@@ -68,19 +68,20 @@ excerpt: Schedule for the TechExeter / Digital Exeter annual conference on 8th S
   @media screen and (max-width: 40em) {
       .schedule-wrap {
         border:0px;
+        background:none;
       }
       #schedule {
-
         box-shadow:none;
         padding:0px;
-
         grid-gap: 0px;
         gap:0px;
       }
       #schedule .time {
         display:none;
       }
-
+      .item {
+        border:1px solid #fff;
+      }
       #schedule .small-time {
         display:inline-block;
       }

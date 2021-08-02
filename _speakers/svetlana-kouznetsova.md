@@ -22,9 +22,8 @@ level: 1
 #twitter:
 # linkedin:
 takeaways:
-- Why accessibility is universal design and benefits not just those with disabilities.
-- Why accessibility is a team effort and needs to be considered from the beginning.
-- How accessibility helps businesses increase their bottom lines and customer base.
+- Learn more about various hearing and communication abilities
+- Hear first-hand about accessibility for deaf people
 
 # TALK DESCRIPTION IS BELOW, FOLLOWED BY BIO
 ---
