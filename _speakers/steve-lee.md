@@ -3,7 +3,7 @@ name: Steve Lee
 pronoun: He/Him
 title: Web consultant
 company: W3C
-session-title: W3C Web Accessibility Initiative and Cognitive Accessibility 
+session-title: The W3C Web Accessibility Initiative + Cognitive Accessibility 
 session-length: 45 mins
 
 headshot: /assets/images/speakers/steve-lee.jpg
@@ -23,7 +23,7 @@ twitter:
  - SteveALee
 linkedin: stevealee
 takeaways:
- - Overview of W3C WAI activity and website
+ - Overview of the W3C WAI activity and website
  - Introduction to Cognitive Accessibility
  - Resources providing guidance
 
@@ -32,12 +32,9 @@ takeaways:
 
 The W3C Web Accessibility Initiative (WAI) provides widely applicable standards with guidance on ensuring accessibility of electronic content and software, For example, the Web Content Accessibility Guidelines (WCAG) is well known as a technical standard that also applies beyond the web and is referenced in policies. WAI has developed its website to be a comprehensive resource providing clear introductions and materials supporting the use of accessibility standards including WCAG. This session will provide an introduction and overview of the WAI website. 
 
-Recently, there is a growing awareness of cognitive accessibility requirements and a new resource from the WAI Accessibility Guidelines Working Group provides supplemental guidance to WCAG on this topic. 
-
-This session introduces cognitive accessibility requirements and the guidance provided for improving access to content and software. 
+Additionally, there is a growing awareness of cognitive accessibility requirements and a new resource from the WAI Accessibility Guidelines Working Group provides supplemental guidance to WCAG on this topic. This session will introduce <strong>cognitive accessibility</strong> requirements and the guidance provided for improving access to content and software. 
 
 We'll gain an overview of this large body of high level guidance, covering aspects of technical accessibility, information architecture, content design and usability.
-
 
 {% include speakers-takeaways.html %}
 
