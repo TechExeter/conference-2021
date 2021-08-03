@@ -264,6 +264,7 @@ section.bronze {
     // background: rgba(39, 40, 51, 0.965);
     .item {
         padding:0.3em;
+
         &.head {
             // color: #fff;
             padding: 0.5em;
@@ -335,12 +336,24 @@ section.bronze {
             font-size:0.8em;
             display:inline-block;
             padding:0 0.25em;
+            transition: all 0.2s;
         }
         &.talk {
             background:#d7dfdf;
+            transition: all 0.2s;
+            &:hover { 
+                background-color: #ffc845;
+            }
         }
         &.workshop {
             background:#d7dfdf;
+            transition: all 0.2s;
+            &:hover { 
+                background-color: #ffc845;
+                .type {
+                    background:#d7dfdf;
+                }
+            }
         }
 
         &.time {

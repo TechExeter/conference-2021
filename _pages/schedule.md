@@ -90,7 +90,7 @@ excerpt: Schedule for the TechExeter / Digital Exeter annual conference on 8th S
 </style>
 
 <div class="container">
-<div style="text-align:center;">Times below are London, UK. BST (UTC +0100)</div>
+<div style="text-align:center;">Times below are London, UK. BST (UTC +0100)<br/><em>Ticket holders can rewatch on-demand for 7 days after the event</em></div>
 
 <div class="schedule-wrap">
 <h1 id="weds">Wednesday 8th September</h1>
