@@ -10,6 +10,7 @@ company: Kooth
 session-title: Understanding accessibility makes you a better developer/designer/leader
 session-length: 45 mins
 
+image: /assets/images/speakers/promo/promo-magdalena-wielopolska.png
 headshot: /assets/images/speakers/magdalena-wielopolska.jpg
 track: "1"
 timeslot: "11.15"

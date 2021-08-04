@@ -6,6 +6,7 @@ title: Accessibility Consultant, Speaker, Author
 session-title: Accessibility for Deaf People - Beyond Video Captions and Sign Language
 session-length: 20 mins
 
+image: /assets/images/speakers/promo/promo-svetlana-kouznetsova.png
 headshot: /assets/images/speakers/svetlana-kouznetsova.jpg
 track: "1"
 timeslot: "12.15"

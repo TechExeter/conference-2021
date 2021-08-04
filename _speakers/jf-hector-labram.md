@@ -11,6 +11,7 @@ company: Kooth
 session-title: Understanding accessibility makes you a better developer/designer/leader
 session-length: 45 mins
 
+image: /assets/images/speakers/promo/promo-jf-hector-labram.png
 headshot: /assets/images/speakers/jf-hector-labram.jpg
 track: "1"
 timeslot: "11.15"

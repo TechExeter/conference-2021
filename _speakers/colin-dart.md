@@ -6,6 +6,7 @@ company: SETsquared Exeter
 session-title: Technology Viability and Innovation - The importance of trying everything
 session-length: 20 mins
 
+image: /assets/images/speakers/promo/promo-colin-dart.png
 headshot: /assets/images/speakers/colin-dart.jpg
 track: "2"
 timeslot: "15.30"

@@ -11,6 +11,7 @@ company: Software Solved
 session-title: DataOps – how access to your data with this approach will release untapped value
 session-length: 45 mins
 
+image: /assets/images/speakers/promo/promo-jon-stace.png
 headshot: /assets/images/speakers/jon-stace.jpg
 track: "2"
 timeslot: "11.15"

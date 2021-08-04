@@ -6,6 +6,7 @@ company: W3C
 session-title: The W3C Web Accessibility Initiative + Cognitive Accessibility 
 session-length: 45 mins
 
+image: /assets/images/speakers/promo/promo-steve-lee.png
 headshot: /assets/images/speakers/steve-lee.jpg
 track: "1"
 timeslot: "13.00"

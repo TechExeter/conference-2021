@@ -6,6 +6,7 @@ company: Freelance
 session-title: Get better at reading code
 session-length: 45 mins
 
+image: /assets/images/speakers/promo/promo-katja-mordaunt.png
 headshot: /assets/images/speakers/katja-mordaunt.jpg
 track: "2"
 timeslot: "13.00"

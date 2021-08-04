@@ -6,6 +6,7 @@ company: Formerly BLAST, Endemol Shine, Comic Relief
 session-title: TV vs Digital - How to make your creative sing for online audiences
 session-length: 45 mins
 
+image: /assets/images/speakers/promo/promo-pete-durant.png
 headshot: /assets/images/speakers/pete-durant.jpg
 track: "1"
 timeslot: "14.30"

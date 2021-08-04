@@ -6,6 +6,7 @@ company: The Hammond Agency
 session-title: Clever Comms - Using data to tell better stories
 session-length: 45 mins
 
+image: /assets/images/speakers/promo/promo-rachel-hammond.png
 headshot: /assets/images/speakers/rachel-hammond.jpg
 track: "3"
 timeslot: "12.15"

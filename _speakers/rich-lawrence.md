@@ -6,6 +6,7 @@ company: Met Office
 session-title: How to buy a really big computer
 session-length: 45 mins
 
+image: /assets/images/speakers/promo/promo-rich-lawrence.png
 headshot: /assets/images/speakers/rich-lawrence.jpg
 track: "2"
 timeslot: "12.15"

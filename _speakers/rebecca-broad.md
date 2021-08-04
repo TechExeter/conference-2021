@@ -5,7 +5,7 @@ title: Organic content strategist
 session-title: How to create accessible social media content
 session-length: 45 mins
 
-
+image: /assets/images/speakers/promo/promo-rebecca-broad.png
 headshot: /assets/images/speakers/rebecca-broad.jpg
 track: "3"
 timeslot: "13.00"

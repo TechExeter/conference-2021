@@ -6,6 +6,7 @@ company: South West Centre of Excellence in Satellite Applications (SWCoESA)
 session-title: Connecting Healthcare
 session-length: 20 mins
 
+image: /assets/images/speakers/promo/promo-anna-mankee-williams.jpg
 headshot: /assets/images/speakers/anna-mankee-williams.jpg
 track: "1"
 timeslot: "15.30"
