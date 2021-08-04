@@ -30,11 +30,11 @@ takeaways:
 # TALK DESCRIPTION IS BELOW, FOLLOWED BY BIO
 ---
 
-The W3C Web Accessibility Initiative (WAI) provides widely applicable standards with guidance on ensuring accessibility of electronic content and software, For example, the Web Content Accessibility Guidelines (WCAG) is well known as a technical standard that also applies beyond the web and is referenced in policies. WAI has developed its website to be a comprehensive resource providing clear introductions and materials supporting the use of accessibility standards including WCAG. This session will provide an introduction and overview of the WAI website. 
+The W3C Web Accessibility Initiative (WAI) provides widely applicable standards with guidance on ensuring <strong>accessibility of electronic content</strong> and software, For example, the Web Content Accessibility Guidelines (WCAG) is well known as a technical standard that also applies beyond the web and is referenced in policies. WAI has developed its website to be a comprehensive resource providing clear introductions and materials supporting the use of accessibility standards including WCAG. This session will provide an introduction and overview of the WAI website. 
 
-Additionally, there is a growing awareness of cognitive accessibility requirements and a new resource from the WAI Accessibility Guidelines Working Group provides supplemental guidance to WCAG on this topic. This session will introduce <strong>cognitive accessibility</strong> requirements and the guidance provided for improving access to content and software. 
+There is a growing awareness of the accessibility requirements of people with <strong>cognitive and learning disabilities</strong>. A new resource from the W3C Web Accessibility Initiative (WAI) Accessibility Guidelines Working Group provides practical guidance on improving cognitive accessibility.
 
-We'll gain an overview of this large body of high level guidance, covering aspects of technical accessibility, information architecture, content design and usability.
+This session will introduce cognitive accessibility, the WAI guidance provided and also the comprehensive WAI website resource.
 
 {% include speakers-takeaways.html %}
 
