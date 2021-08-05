@@ -91,17 +91,17 @@ layout: default
               <td>Type of session: {{ page.type }}</td>
             </tr>
             <tr>
-              <!--
-              <td>Start Time: <a
-                  href="#{{page.day}}_time_{{ page.timeslot | replace: ".", ""  | replace: ":", "" }}">{{ page.timeslot }}
-                  </a></td>
-                -->
+              
+              <td>
+                Start Time: 
+                <a href="/schedule.html#time_{{ page.timeslot | replace: ".", ""  | replace: ":", "" }}">{{ page.timeslot }}</a>
+              </td>
               <td>
                 {% if page.level == 1 %}
                 Entry-level / open to all
                 {% endif %}
                 {% if page.level == 2 %}
-                Mid-level topic, some knowledge required
+                Mid-level topic,<br/> some knowledge required
                 {% endif %}
                 {% if page.level == 3 %}
                 Aimed towards advanced practitioners
