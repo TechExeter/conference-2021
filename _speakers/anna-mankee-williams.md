@@ -20,7 +20,8 @@ qa: live
 
 level: 1
 
-# twitter: not-supplied
+twitter: 
+ - mankeewilliams
 # linkedin: not-supplied
 takeaways:
  - Benefits of Space-enabled technologies & applications

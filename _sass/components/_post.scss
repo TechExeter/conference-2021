@@ -153,6 +153,12 @@
 				}
 				a { border-bottom: none; }
 			}
+			&.img {
+				img {
+					@include vendor('flex-basis', '50%');
+				}
+				margin-bottom:1em;
+			}
 			section {
 				@include vendor('flex-basis', '50%');
 				text-align:center;
