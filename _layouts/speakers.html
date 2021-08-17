@@ -21,7 +21,7 @@ layout: default
     <div>
       {% for twitter_handle in page.twitter %}
       <a class="twitter" href="https://twitter.com/{{ twitter_handle }}" target="_blank"
-        rel="nofollow noreferrer"><i aria-hidden="true" class="fab fa-twitter"></i> {{ twitter_handle }}</a>
+        rel="nofollow noreferrer"><i aria-hidden="true" class="fab fa-twitter"></i> {{ twitter_handle }}</a><br/>
       {% endfor %}
     </div>
     {% endif %}
@@ -65,16 +65,12 @@ layout: default
       {% if page.last_modified_at %}
       <meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%B %d, %Y" }}">{% endif %}
 
-      <header>
-        <div class="title">
-        {% if page.session-title %}<h1 id="page-title" class="page__title" itemprop="headline">
-          {{ page.session-title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
-        </div>
-      </header>
-
       <section>
-
-        <div>
+        <div class="title">
+          {% if page.session-title %}<h1 id="page-title" class="page__title" itemprop="headline">
+            {{ page.session-title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
+        </div>
+        <div class="infoblock">
           <table>
             <tr>
               <td>Track: <a href="#track_{{ page.track }}">{{ page.track }}
