@@ -42,6 +42,11 @@ takeaways:
 
 {% include speakers-takeaways.html %}
 
+<video width="100%" controls playsinline loop poster="/assets/video/pete-durant.jpg"  style="margin-bottom:1em; padding: 0px 2em;">
+  <source src="/assets/video/pete-durant.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 <h3>Bio</h3>
 
 Over the past 16 years, Pete has been at the forefront of the digital and social revolution, creating and telling brands’ stories. Marketing director, brand leader and creative director, Pete’s worked both sides of the divide at agency groups Omnicom, WPP and IPG Mediabrands and with top UK brands from Peaky Blinders, Big Brother and MasterChef at Endemol Shine UK, Waitrose, Renault Dacia, Comic Relief, Cheapflights, Specsavers and generation-defining entertainment platforms Habbo Hotel and BLAST esports entertainment. An award-winning marketer and digital-social-content leader, he connects brands with audiences and drives fast, valuable growth. In the modern, multi-platform world with attention at a premium and audience at the core, he’s passionate about brands creating emotional ties through brilliant basics and strong foundations, powered by his bespoke storytelling engine and driving fame as key to every business’ growth. 

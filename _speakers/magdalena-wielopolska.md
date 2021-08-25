@@ -46,6 +46,12 @@ It’ll help you bake accessibility into your own practice and your team.
 
 {% include speakers-takeaways.html %}
 
+<video width="100%" controls playsinline loop poster="/assets/video/kooth.jpg"  style="margin-bottom:1em; padding: 0px 2em;">
+  <source src="/assets/video/kooth.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 <h3>Bio</h3>
 
 Magdalena Wielopolska is the Director of Experience at Kooth and has spent over a decade designing for the digital environment. She’s currently completing her masters in Positive Psychology and Coaching Psychology.

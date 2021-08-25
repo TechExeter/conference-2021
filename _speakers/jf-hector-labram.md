@@ -37,6 +37,7 @@ takeaways:
 
 # TALK DESCRIPTION IS BELOW, FOLLOWED BY BIO
 ---
+
 Most apps and websites unnecessarily exclude millions of people.
 An inclusive user interface does not really take longer to design or build – if you know how to do it.
 
@@ -47,6 +48,11 @@ This session will help you think more clearly and concretely about accessibility
 It’ll help you bake accessibility into your own practice and your team.
 
 {% include speakers-takeaways.html %}
+
+<video width="100%" controls playsinline loop poster="/assets/video/kooth.jpg"  style="margin-bottom:1em; padding: 0px 2em;">
+  <source src="/assets/video/kooth.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <h3>Bio</h3>
 

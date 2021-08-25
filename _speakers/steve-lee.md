@@ -9,7 +9,7 @@ session-length: 45 mins
 image: /assets/images/speakers/promo/promo-steve-lee.png
 headshot: /assets/images/speakers/steve-lee.jpg
 track: "1"
-timeslot: "13.00"
+timeslot: "13.15"
 date: 2021-09-08
 type: talk
 # talk, workshop, other

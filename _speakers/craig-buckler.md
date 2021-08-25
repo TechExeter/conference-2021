@@ -42,6 +42,11 @@ In this talk, Craig explains a technology which can make multi-locale developmen
 
 {% include speakers-takeaways.html %}
 
+<video width="100%" controls playsinline loop style="margin-bottom:1em; padding: 0px 2em;">
+  <source src="/assets/video/craig-buckler.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 <h3>Bio</h3>
 <p>Craig is a freelance developer, author, and speaker who's been working on the web a long, long time.
 
