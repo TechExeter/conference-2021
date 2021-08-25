@@ -42,7 +42,7 @@ In this talk, Craig explains a technology which can make multi-locale developmen
 
 {% include speakers-takeaways.html %}
 
-<video width="100%" controls playsinline loop poster="/assets/video/craig-buckler.jpg" style="margin-bottom:1em; padding: 0px 2em;">
+<video width="100%" preload="none" controls playsinline loop poster="/assets/video/craig-buckler.jpg" style="margin-bottom:1em; padding: 0px 2em;">
   <source src="https://media.githubusercontent.com/media/techexeter/conference-2021/master/assets/video/craig-buckler.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
