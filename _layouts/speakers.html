@@ -84,10 +84,12 @@ layout: default
                   (DIGITAL TRACK)
                   {% endif %}
                 </a></td>
-              <td>Type of session: {{ page.type }}</td>
+              <td>
+                Type of session: {{ page.type }}
+                {% if page.qa == "live" %}<br/><i class="fas fa-comments"></i> with Live Q&A{% endif %}
+              </td>
             </tr>
             <tr>
-              
               <td>
                 Start Time: 
                 <a href="/schedule.html#time_{{ page.timeslot | replace: ".", ""  | replace: ":", "" }}">{{ page.timeslot }}</a>

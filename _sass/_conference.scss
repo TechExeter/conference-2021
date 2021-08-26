@@ -349,7 +349,8 @@ section.bronze {
                 background-color: #ffc845;
             }
         }
-        &.workshop {
+        &.workshop,
+        &.keynote {
             background:#d7dfdf;
             transition: all 0.2s;
             &:hover { 

@@ -7,10 +7,7 @@
    track: "1"
    type: "talk"
    session-title: "Opening ceremony"
- - timeslot: "10.30"
-   track: "1"
-   session-title: "Keynote"   
-   type: "talk"
+
  - timeslot: "11.00"
    track: "123"
    type: "break"
