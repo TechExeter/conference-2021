@@ -41,6 +41,11 @@ This talk will be aimed at those both new to and experienced with social media.
 
 {% include speakers-takeaways.html %}
 
+<video width="100%" preload="none" controls playsinline loop poster="/assets/video/rebecca-broad.jpg"  style="margin-bottom:1em; padding: 0px 2em;">
+  <source src="https://media.githubusercontent.com/media/techexeter/conference-2021/master/assets/video/rebecca-broad.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 <h3>Bio</h3>
 A countryside childhood led Rebecca to study Biology at the University of Exeter, with high hopes of learning how to save the planet. Science turned out to mainly mean jumping through academic hoops in a lab coat, so she volunteered at science festivals, studied business modules, edited a newspaper, and interned in marketing agencies - all of which confirmed a new aim of freelance comms (fittingly, her final project won the cohort award for Best Communication). Rebecca received disabled student support while studying and remains passionate about increasing accessibility regardless of health conditions.
 
