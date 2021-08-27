@@ -27,9 +27,9 @@ twitter:
  - SEOJoBlogs
 # linkedin: not-supplied
 takeaways:
- - Discovering their strengths and building on them to improve their confidence. 
- - Address areas that they want to improve and accepting what they can or cannot change 
- - How to listen to others, (providing tips on improving their listening and getting people to listen to them and take what they have said on board)
+ - Discover your strengths and how to build on them to improve confidence (which helps with relationships)
+ - Understand the role and importance of EQ (Emotional Intelligence) on building relationships
+ - Learn how to be an active listener (which helps form relationships)
  
 # TALK DESCRIPTION IS BELOW, FOLLOWED BY BIO
 ---
