@@ -55,7 +55,7 @@ excerpt: Schedule for the TechExeter / Digital Exeter annual conference on 8th S
       "t-1530 t1-1530 t2-1530 t3-1515"
       "t-1545 t1-1530 t2-1530 t3-1515"
       "t-1600 t1-1600 t2-1600 t3-1600"
-      "t-1615 t1-1600 t2-1600 t3-1600"
+      "t-1615 t123-1615 t123-1615 t123-1615"
       "t-1630 t123-1630 t123-1630 t123-1630"
       "t-1645 t123-1645 t123-1645 t123-1645"
       ". t1-tba t2-tba t3-tba";
