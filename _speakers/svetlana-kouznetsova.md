@@ -37,6 +37,8 @@ Let’s think outside the ears!
 
 {% include speakers-takeaways.html %}
 
+Talk Transcript : <a href="/resources/svetlana.html">Read here</a>
+
 <h3>Bio</h3>
 
 Svetlana Kouznetsova (Sveta) is an independent consultant and accessibility trailblazer based in NYC area. Sveta helps regular businesses make their mainstream web, media, and events more accessible to the world's largest minority of 1.85 billion of disabled people. She is also a founder of Audio Accessibility providing consultation on improving communication and information access to 466 million of deaf and hard of hearing people worldwide. 
