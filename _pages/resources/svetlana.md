@@ -2,6 +2,7 @@
 layout: default
 title: Svetlana Kouznetsova - Resources
 permalink: /resources/svetlana.html
+meta-robots: noindex
 ---
 
 Speaker : <a href="/speakers/svetlana-kouznetsova.html">Svetlana Kouznetsova</a>

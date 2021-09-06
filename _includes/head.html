@@ -50,7 +50,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="robots" content="all"/>
+  <meta name="robots" content="{{ page.meta-robots | default: 'all' }}"/>
   <meta name="description" content="{{ seo_description }}">
   {%- if page.session-title -%}
   <meta name="author" content="{{ page.name }}">

@@ -37,7 +37,7 @@ Let’s think outside the ears!
 
 {% include speakers-takeaways.html %}
 
-Talk Transcript : <a href="/resources/svetlana.html">Read here</a>
+Talk Transcript : <a href="/resources/svetlana.html" rel="noindex nofollow">Read here</a>
 
 <h3>Bio</h3>
 
